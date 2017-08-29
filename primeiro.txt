@@ -2,3 +2,4 @@
 2a. linha
 	crei uma função está ficando legal
 a = 3
+b=55
