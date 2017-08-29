@@ -1,0 +1,2 @@
+# sisteqlineares
+Solução Gauss-Jordan
